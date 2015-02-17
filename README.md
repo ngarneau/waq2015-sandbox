@@ -1,2 +1,3 @@
-# waq2015-sandbox
-Sandbox for the Web à Québec 2015 Machine learning workshop
+# Web à Québec 2015 Machine Learning workshop sandbox
+
+Make sure you have scikit-learn and its dependencies installed.
